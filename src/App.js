@@ -15,7 +15,7 @@ function App() {
         <Route exact path='/' component={Body}/>
       </Switch>
     </div>
-  );
+  ); 
 }
 
 export default App;
