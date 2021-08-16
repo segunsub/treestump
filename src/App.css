@@ -41,3 +41,13 @@
     /* padding-left: 12%; */
     color: white;
 }
+.boxContain {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+.textDiv {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+  }
